@@ -11,7 +11,7 @@ This project follows a **pipeline-based multi-agent architecture**, where each a
 The images below illustrate the difference between **Single Agent** vs **Multi-Agent** systems and how your project implements a multi-agent pipeline.
 
 ### 🔹 Single Agent vs Multi-Agent Architecture  
-<img src="https://github.com/ghanasai/AI-Chatbot/assets/97283100/abcd1234" width="700">
+<img src="C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-12-01 070740.png" width="700">
 
 ### 🔹 LangGraph Workflow Diagram  
 <img src="https://github.com/ghanasai/AI-Chatbot/assets/97283100/xyz98765" width="250">
