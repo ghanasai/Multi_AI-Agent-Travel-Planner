@@ -61,7 +61,5 @@ Example:
 
 ---
 
-### **3. Orchestration Layer — LangGraph StateGraph**
 
-LangGraph ensures each agent runs in the correct order:
 
