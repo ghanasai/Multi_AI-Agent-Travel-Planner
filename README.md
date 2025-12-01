@@ -4,12 +4,6 @@ The **Multi-Agent AI Travel Planner** is an intelligent system that generates a 
 
 ---
 
-# 🌍 Multi-Agent AI Travel Planner
-
-The **Multi-Agent AI Travel Planner** is an intelligent itinerary-generation system built using **LangGraph**, **LangChain**, **OpenAI GPT models**, and **Gradio**. It processes natural-language travel requests, extracts the destination city, identifies user interests, and generates a personalized day-trip itinerary using a multi-agent workflow.
-
----
-
 # 🏗️ Architecture Overview
 
 This project follows a **pipeline-based multi-agent architecture**, where each agent is responsible for a specific task. The system is orchestrated using **LangGraph’s StateGraph**, ensuring a clear, deterministic execution flow.
